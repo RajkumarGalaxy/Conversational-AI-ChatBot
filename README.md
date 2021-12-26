@@ -2,8 +2,8 @@
 
 ### Intelligent ChatBot built with Microsoft's DialoGPT transformer to make conversations with human users! 
 
-!--![cover image](https://raw.githubusercontent.com/RajkumarGalaxy/dataset/master/Images/robo%20girl.jpg)
-> ##### [Image by Andy Kelly](https://unsplash.com/@askkell) --
+### In this project?
+>##### This project builds an intelligent AI chatbot based on the famous transformer architecture - Microsoft's DialoGPT. According to [Hugging Face's model card](https://huggingface.co/microsoft/DialoGPT-medium), DialoGPT is a State-Of-The-Art large-scale pretrained dialogue response generation model for multiturn conversations. The human evaluation results indicate that the response generated from DialoGPT is comparable to human response quality under a single-turn conversation Turing test. The model is trained on 147M multi-turn dialogue from Reddit discussion thread.
 
 ### What is a chatbot?
 
@@ -24,10 +24,12 @@
 ### Intelligent AI chatbots
 >##### These bots respond to users' inputs after understanding the inputs, as humans do. These bots are trained with a Machine Learning Model on a large training dataset of human conversations. These bots are cognitive to match a human in conversing. Amazon's Alexa, Apple's Siri fall under this category. Further, most of these bots can make conversations based on the preceding chat texts.
 
-### In this project?
->##### This project builds an intelligent AI chatbot based on the famous transformer architecture - Microsoft's DialoGPT. According to [Hugging Face's model card](https://huggingface.co/microsoft/DialoGPT-medium), DialoGPT is a State-Of-The-Art large-scale pretrained dialogue response generation model for multiturn conversations. The human evaluation results indicate that the response generated from DialoGPT is comparable to human response quality under a single-turn conversation Turing test. The model is trained on 147M multi-turn dialogue from Reddit discussion thread.
 
-Happy Chatting!
 
 ### Sample Chat by this project
 ![chat1](https://raw.githubusercontent.com/RajkumarGalaxy/Conversational-AI-ChatBot/main/chatbot_chats_1.jpg)
+
+#### Happy Chatting!
+
+![cover image](https://raw.githubusercontent.com/RajkumarGalaxy/dataset/master/Images/robo%20girl.jpg)
+> ##### [Image by Andy Kelly](https://unsplash.com/@askkell) 
