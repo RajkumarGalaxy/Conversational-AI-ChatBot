@@ -28,3 +28,6 @@
 >##### This project builds an intelligent AI chatbot based on the famous transformer architecture - Microsoft's DialoGPT. According to [Hugging Face's model card](https://huggingface.co/microsoft/DialoGPT-medium), DialoGPT is a State-Of-The-Art large-scale pretrained dialogue response generation model for multiturn conversations. The human evaluation results indicate that the response generated from DialoGPT is comparable to human response quality under a single-turn conversation Turing test. The model is trained on 147M multi-turn dialogue from Reddit discussion thread.
 
 Happy Chatting!
+
+### Sample Chat by this project
+![chat1](https://raw.githubusercontent.com/RajkumarGalaxy/Conversational-AI-ChatBot/main/chatbot_chats_1.jpg)
