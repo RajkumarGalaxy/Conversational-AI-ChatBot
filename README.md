@@ -5,6 +5,14 @@
 ### In this project?
 >##### This project builds an intelligent AI chatbot based on the famous transformer architecture - Microsoft's DialoGPT. According to [Hugging Face's model card](https://huggingface.co/microsoft/DialoGPT-medium), DialoGPT is a State-Of-The-Art large-scale pretrained dialogue response generation model for multiturn conversations. The human evaluation results indicate that the response generated from DialoGPT is comparable to human response quality under a single-turn conversation Turing test. The model is trained on 147M multi-turn dialogue from Reddit discussion thread.
 
+#### This repository contains:
+
+[`Conversational_AI_ChatBot.py`](https://github.com/RajkumarGalaxy/Conversational-AI-ChatBot/blob/main/Conversational_AI_ChatBot.py)  - A Python version of ChatBot
+
+[`conversational-ai-chatbot.ipynb`](https://github.com/RajkumarGalaxy/Conversational-AI-ChatBot/blob/main/conversational-ai-chatbot.ipynb) - A Interactive Notebook version of ChatBot
+
+[`requirements.txt`](https://github.com/RajkumarGalaxy/Conversational-AI-ChatBot/blob/main/requirements.txt)  - Explores Python libraries requirements to run the project
+
 ### What is a chatbot?
 
 >##### A ChatBot is a kind of virtual assistant that can build conversations with human users! A *Chat*ting Ro*bot*. Building a chatbot is one of the popular tasks in Natural Language Processing.
