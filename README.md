@@ -2,8 +2,8 @@
 
 ### Intelligent ChatBot built with Microsoft's DialoGPT transformer to make conversations with human users! 
 
-![cover image](https://raw.githubusercontent.com/RajkumarGalaxy/dataset/master/Images/robo%20girl.jpg)
-> ##### [Image by Andy Kelly](https://unsplash.com/@askkell) 
+!--![cover image](https://raw.githubusercontent.com/RajkumarGalaxy/dataset/master/Images/robo%20girl.jpg)
+> ##### [Image by Andy Kelly](https://unsplash.com/@askkell) --
 
 ### What is a chatbot?
 
