@@ -34,8 +34,10 @@
 
 
 
-### Sample Chat by this project
+### Sample Chats by this project
 ![chat1](https://raw.githubusercontent.com/RajkumarGalaxy/Conversational-AI-ChatBot/main/chatbot_chats_1.jpg)
+
+![chat2](https://raw.githubusercontent.com/RajkumarGalaxy/Conversational-AI-ChatBot/main/chatbot_chats_2.jpg)
 
 #### Happy Chatting!
 
