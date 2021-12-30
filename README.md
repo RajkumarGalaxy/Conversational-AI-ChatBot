@@ -27,11 +27,11 @@
 >##### These bots respond to users' inputs based on certain pre-specified rules. For instance, these rules can be defined as if-elif-else statements. While writing rules for these chatbots, it is important to expect all possible user inputs, else the bot may fail to answer properly. Hence, rule-based chatbots do not possess any cognitive skills.
 
 ### Retrieval-based chatbots
->##### These bots respond to users' inputs by retrieving the most relevant information from the given text document. The most relevant information can be determined by Natural Language Processing with a scoring system such as cosine-similarity-score. Though these bots use NLP to do conversations, they lack cognitive skills to match a real human chatting companion.
+>##### These bots respond to users' inputs by retrieving the most relevant information from the given text document. The most relevant information can be determined by Natural Language Processing with a scoring system such as cosine-similarity-score. Though these bots use NLP to do conversations, they lack cognitive skills to match a real human chatting companion. The [Wiki-IR-ChatBot](https://github.com/RajkumarGalaxy/Wiki-IR-ChatBot), built by [Author](https://github.com/RajkumarGalaxy), falls under this category!
+
 
 ### Intelligent AI chatbots
->##### These bots respond to users' inputs after understanding the inputs, as humans do. These bots are trained with a Machine Learning Model on a large training dataset of human conversations. These bots are cognitive to match a human in conversing. Amazon's Alexa, Apple's Siri fall under this category. Further, most of these bots can make conversations based on the preceding chat texts.
-
+>##### These bots respond to users' inputs after understanding the inputs, as humans do. These bots are trained with a Machine Learning Model on a large training dataset of human conversations. These bots are cognitive to match a human in conversing. Amazon's Alexa, Apple's Siri fall under this category. Further, most of these bots can make conversations based on the preceding chat texts (chat history). This [Conversation AI ChatBot](https://github.com/RajkumarGalaxy/Conversational-AI-ChatBot) is a kind of an intelligent chatbot! 
 
 
 ### Sample Chats by this project
